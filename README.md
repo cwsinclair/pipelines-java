@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/collinwsinclair/TEst/_apis/build/status/cwsinclair.pipelines-java?branchName=master)](https://dev.azure.com/collinwsinclair/TEst/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
